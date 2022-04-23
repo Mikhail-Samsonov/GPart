@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="GPart.Algorithms.Contracts.Models.IGraph">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAACAAQAAAAQCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\Contracts\Models\IGraph.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GPart.Algorithms.Contracts.IDecomposer">
+    <Position X="2.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Algorithms\Contracts\IDecomposer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GPart.Algorithms.Contracts.IMultiLevelAlgorithm">
+    <Position X="2.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Algorithms\Contracts\IMultiLevelAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GPart.Algorithms.Contracts.IOptimizer">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\Contracts\IOptimizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GPart.Algorithms.Contracts.IReducer">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Algorithms\Contracts\IReducer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GPart.Algorithms.Contracts.IStartNodeDetector">
+    <Position X="6.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Algorithms\Contracts\IStartNodeDetector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

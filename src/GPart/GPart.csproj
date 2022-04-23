@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Algorithms\Contracts\Models\" />
+    <None Remove="Algorithms\Contracts\Exceptions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Algorithms\Contracts\Models\" />
+    <Folder Include="Algorithms\Contracts\Exceptions\" />
+  </ItemGroup>
+</Project>
